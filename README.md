@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pratham-exe
+- 👋 Hi, I’m @prathamvbhat
 - 👀 I’m interested in 
      - Ethical Hacking. 
      - CyberSecurity.
